@@ -1,0 +1,65 @@
+[
+    {
+      "id": 0,
+      "name": "Oluwadurotimi Okediji",
+      "image": "images/alberto.png",
+      "designation": "Chief Executive Officer",
+      "abbr": "CEON",
+      "featured": true,
+      "description": "Our CEO, Oluwadurotimi Okediji,a visionier and ambitious man, he beliefs in impactation He brings his zeal for fusion cuisines in the food legends product, pioneering cross-cultural culinary connections."
+    },
+    {
+      "id": 1,
+      "name": "Olawale Micheal Juwon",
+      "image": "images/tech.png",
+      "designation": "Technical Lead",
+      "abbr": "TL",
+      "featured": false,
+      "description": "Our TL, Micheal, as he is affectionately referred to by his colleagues -Tech Man, All he loves doing is to play with server, network and physical computing. He belifs that the food legends robot is coming. As he puts it in his own words, Everything that runs, wins, and everything that stays, pays!"
+    },
+    {
+      "id": 2,
+      "name": "Ige Oluwabunmi",
+      "image": "images/toshine.png",
+      "designation": "Chief Taste Officer",
+      "abbr": "CTO",
+      "featured": false,
+      "description": "Blessed with the most discerning gustatory sense, Bunmi, our CFO, personally ensures that every dish that we serve meets her exacting tastes. Our chefs dread the tongue lashing that ensues if their dish does not meet his exacting standards. She lives by her motto, You click only if you survive my lick."
+    },
+    {
+      "id": 3,
+      "name": "Oluwafolakemi",
+      "image": "images/folake.png",
+      "designation": "CFO",
+      "abbr": "EC",
+      "featured": false,
+      "description": "Award winning pioneer of the food legends product, a wide International experience having worked closely with whos-who in the culinary world, she specializes in creating mouthwatering diet experiences.she is an endowed entrepreneur"
+    },
+    {
+      "id": 4,
+      "name": "Iyiola Grace",
+      "image": "images/grace.png",
+      "designation": "zone coordinator",
+      "abbr": "EC",
+      "featured": false,
+      "description": "Member of the food legends product, knowledgibile and  experience having worked closely with whos-who in the culinary world, she specializes in creating mouthwatering diet experiences.she is  endowed with writing about foods"
+    },
+    {
+      "id": 5,
+      "name": "Iyeni Mayowa",
+      "image": "images/mayowa.png",
+      "designation": "Financial Team Lead",
+      "abbr": "EC",
+      "featured": false,
+      "description": "Member of the food legends product, knowledgibile and  experience having worked with food + money, she specializes in creating savings plan on diet."
+    },
+    {
+      "id": 6,
+      "name": "Ajao Joshua",
+      "image": "images/joshua.png",
+      "designation": "Chemical Team Lead",
+      "abbr": "EC",
+      "featured": false,
+      "description": "Member of the food legends product, knowledgibile and  experienc, a chemical engineer surfing things with the food legends, though a recruit who argues not to be (lol). He is skilfull and passionate."
+    }
+  ]
