@@ -1,42 +1,42 @@
 [
     {
       "id": 0,
-      "name": "Nifty Cake",
+      "name": "SAY IT LOUD Exhibit & Lecture 2020!",
       "image": "images/uthappizza.png",
       "category": "mains",
       "label": "Hot",
       "price": "4.99",
       "featured": true,
-      "description": "A unique combination of Heavenly Designed Cake,you will believe after seeing the manufacturer.The Cake is with Vidalia onion and Buffalo Paneer."
+      "description": "A wonderful cpdi event at atlanta georgia"
     },
     {
       "id": 1,
-      "name": "I-rottex Garri",
+      "name": "Delta Cpdi Expo 2019",
       "image": "images/buffet.png",
       "category": "appetizer",
       "label": "",
       "price": "1.99",
       "featured": false,
-      "description": "Deep fried Zucchini coated with mildly spiced Chickpea flour batter accompanied with a sweet-tangy tamarind sauce"
+      "description": "An event by cpdi, guess the featured person in the picture!"
     },
     {
       "id": 2,
-      "name": "Vadonut",
+      "name": "Afrocentric Architecture Workshop",
       "image": "images/vadonut.png",
       "category": "appetizer",
       "label": "New",
       "price": "1.99",
       "featured": false,
-      "description": "A quintessential ConFusion experience, is it a vada or is it a donut?"
+      "description": "A wonderful event live in new york"
     },
     {
       "id": 3,
-      "name": "ElaiCheese Cake",
+      "name": "Africatown Design Townhall 2018!",
       "image": "images/elaicheesecake.png",
       "category": "dessert",
       "label": "",
       "price": "2.99",
       "featured": false,
-      "description": "A delectable, semi-sweet New York Style Cheese Cake, with Graham cracker crust and spiced with Indian cardamoms"
+      "description": "Improving africa architecture, guess the featured person in the picture!"
     }
   ]
